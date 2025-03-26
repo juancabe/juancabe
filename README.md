@@ -8,4 +8,4 @@ Informatics Engineering at the University of Salamanca. I am passionate about te
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancabe&langs_count=6&size_weight=0.9&count_weight=0.1&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancabe&langs_count=6&size_weight=0.9&count_weight=0.1&theme=dark&layout=compact&hide=javascript,css)](https://github.com/anuraghazra/github-readme-stats)
